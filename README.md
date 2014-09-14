@@ -9,7 +9,7 @@ OpenElections
 ![openelex.png](openelex.png)
 
 * What we're doing
-* Why is this [important]![results.png](results.png)? [Context](http://www.nytimes.com/2014/07/10/upshot/voting-totals-reveal-crucial-boost-from-blacks-in-cochrans-victory.html).
+* Why is this important? ![results.png](results.png)? [Context](http://www.nytimes.com/2014/07/10/upshot/voting-totals-reveal-crucial-boost-from-blacks-in-cochrans-victory.html).
 * Transparency in [process](http://docs.openelections.net/), [code](https://github.com/openelections) and [data](https://github.com/openelections/openelections-data-ms) 
 * [Publishing results](http://openelex-website-demo.s3-website-us-east-1.amazonaws.com/)
 
@@ -28,29 +28,27 @@ OpenElections
 * Recognizing good faith vs the opposite, and changing topics
 * Meeting with and providing feedback to election officials
 
-OpenElections:
+## More Information and Code
 
 * http://docs.openelections.net/
 * https://github.com/openelections
 * https://github.com/openelections/dashboard
-* http://docs.opencivicdata.org/en/latest/proposals/0002.html
 * https://github.com/openelections/specs/wiki/Elections-Data-Spec-Version-2
 * https://github.com/openelections/specs/wiki/Results-Data-Spec-Version-2
-* https://github.com/openelections/openelections-data-ms
-* https://github.com/openelections/openelections-results-wy
 
-Visuals:
+## Things to See
 
-* http://www.nytimes.com/2014/07/10/upshot/voting-totals-reveal-crucial-boost-from-blacks-in-cochrans-victory.html?abt=0002&abg=1
-* http://www.nytimes.com/2014/07/15/upshot/more-evidence-that-thad-cochran-owes-runoff-win-to-black-voters.html?abt=0002&abg=1
-* http://openelex-website-demo.s3-website-us-east-1.amazonaws.com/
-* http://www.nytimes.com/interactive/2014/06/24/nyregion/rangel-election-results.html
+* [Comparing elections](http://www.nytimes.com/interactive/2014/06/24/nyregion/rangel-election-results.html)
+* [Mississippi results analysis 1](http://www.nytimes.com/2014/07/10/upshot/voting-totals-reveal-crucial-boost-from-blacks-in-cochrans-victory.html)
+* [Mississippi results analysis 2](http://www.nytimes.com/2014/07/15/upshot/more-evidence-that-thad-cochran-owes-runoff-win-to-black-voters.html)
+* [OpenElections raw results demo](http://openelex-website-demo.s3-website-us-east-1.amazonaws.com/)
 
-Tools:
+## Tools to Use
 
-* http://tabula.nerdpower.org/
-* https://chrome.google.com/webstore/detail/split-names/omjobieogknhhlogiaeofbdpipihaanb?hl=en
-* https://github.com/opencivicdata/ocd-division-ids
-* https://github.com/ghing/tablesplitter
+* [Tabula](http://tabula.nerdpower.org/)
+* [Open Civic Data IDs](http://docs.opencivicdata.org/en/latest/proposals/0002.html)
+* [CSVKit](https://csvkit.readthedocs.org/)
+* [TableSplitter](https://github.com/ghing/tablesplitter)
+* [Google Spreadsheets Name Splitter](https://chrome.google.com/webstore/detail/split-names/omjobieogknhhlogiaeofbdpipihaanb)
 
 
