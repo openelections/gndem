@@ -4,8 +4,6 @@ OpenElections
 #### Presentation notes for GNDEM 2014 workshop
 #### Derek Willis, [OpenElections](http://openelections.net/)
 
-## Overview
-
 ![openelex.png](openelex.png)
 
 * What we're doing
