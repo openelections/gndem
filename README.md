@@ -7,7 +7,7 @@ OpenElections
 ![openelex.png](openelex.png)
 
 * What we're doing
-* Why is this important? ![results.png](results.png)? [Context](http://www.nytimes.com/2014/07/10/upshot/voting-totals-reveal-crucial-boost-from-blacks-in-cochrans-victory.html).
+* Why is this important? ![results.png](results.png) [Context](http://www.nytimes.com/2014/07/10/upshot/voting-totals-reveal-crucial-boost-from-blacks-in-cochrans-victory.html).
 * Transparency in [process](http://docs.openelections.net/), [code](https://github.com/openelections) and [data](https://github.com/openelections/openelections-data-ms) 
 * [Publishing results](http://openelex-website-demo.s3-website-us-east-1.amazonaws.com/)
 
