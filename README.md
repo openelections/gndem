@@ -30,11 +30,11 @@ OpenElections
 
 ## More Information and Code
 
-* http://docs.openelections.net/
-* https://github.com/openelections
-* https://github.com/openelections/dashboard
-* https://github.com/openelections/specs/wiki/Elections-Data-Spec-Version-2
-* https://github.com/openelections/specs/wiki/Results-Data-Spec-Version-2
+* [Documentation](http://docs.openelections.net/)
+* [Our Code](https://github.com/openelections)
+* [Our Blog](http://blog.openelections.net/)
+* [Election Data Spec](https://github.com/openelections/specs/wiki/Elections-Data-Spec-Version-2)
+* [Results Data Spec](https://github.com/openelections/specs/wiki/Results-Data-Spec-Version-2)
 
 ## Things to See
 
